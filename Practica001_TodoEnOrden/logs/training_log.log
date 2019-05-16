@@ -1,3 +1,84 @@
 2019-05-15 21:40:10,203: INFO: ****PROCESSING START****
 2019-05-15 21:41:55,247: INFO: ****PROCESSING START****
 2019-05-15 21:41:55,247: INFO: ****PROCESSING START****
+2019-05-16 09:38:02,902: INFO: ****PROCESSING START****
+2019-05-16 09:51:43,287: INFO: Querying for imagery between 20180601 and 20190501 for aoi src/AOI.json
+2019-05-16 09:51:43,304: INFO: Sending query:
+footprint: POLYGON((-75.5760 4.5170,-75.5760 4.4120,-75.4370 4.4120,-75.4370 4.5170,-75.5760 4.5170))
+start_date: 2018-06-01T00:00:00Z
+end_date: 2019-05-01T00:00:00Z
+ cloud_cover: 60 
+2019-05-16 09:51:46,980: INFO: Search returned 49 images
+2019-05-16 10:00:37,351: INFO: Querying for imagery between 20180601 and 20190501 for aoi src/AOI.json
+2019-05-16 10:00:37,359: INFO: Sending query:
+footprint: POLYGON((-75.5760 4.5170,-75.5760 4.4120,-75.4370 4.4120,-75.4370 4.5170,-75.5760 4.5170))
+start_date: 2018-06-01T00:00:00Z
+end_date: 2019-05-01T00:00:00Z
+ cloud_cover: 20 
+2019-05-16 10:00:39,279: INFO: Search returned 4 images
+2019-05-16 10:01:44,877: INFO: Querying for imagery between 20180601 and 20190501 for aoi src/AOI.json
+2019-05-16 10:01:44,886: INFO: Sending query:
+footprint: POLYGON((-75.5760 4.5170,-75.5760 4.4120,-75.4370 4.4120,-75.4370 4.5170,-75.5760 4.5170))
+start_date: 2018-06-01T00:00:00Z
+end_date: 2019-05-01T00:00:00Z
+ cloud_cover: 20 
+2019-05-16 10:01:46,629: INFO: Search returned 4 images
+2019-05-16 10:01:59,755: INFO: Querying for imagery between 20180601 and 20190501 for aoi src/AOI.json
+2019-05-16 10:01:59,766: INFO: Sending query:
+footprint: POLYGON((-75.5760 4.5170,-75.5760 4.4120,-75.4370 4.4120,-75.4370 4.5170,-75.5760 4.5170))
+start_date: 2018-06-01T00:00:00Z
+end_date: 2019-05-01T00:00:00Z
+ cloud_cover: 20 
+2019-05-16 10:02:00,793: INFO: Search returned 4 images
+2019-05-16 10:02:15,944: INFO: Querying for imagery between 20180601 and 20190501 for aoi src/AOI.json
+2019-05-16 10:02:15,956: INFO: Sending query:
+footprint: POLYGON((-75.5760 4.5170,-75.5760 4.4120,-75.4370 4.4120,-75.4370 4.5170,-75.5760 4.5170))
+start_date: 2018-06-01T00:00:00Z
+end_date: 2019-05-01T00:00:00Z
+ cloud_cover: 20 
+2019-05-16 10:02:17,799: INFO: Search returned 4 images
+2019-05-16 10:03:34,254: INFO: Querying for imagery between 20180601 and 20190501 for aoi src/AOI.json
+2019-05-16 10:03:34,267: INFO: Sending query:
+footprint: POLYGON((-75.5760 4.5170,-75.5760 4.4120,-75.4370 4.4120,-75.4370 4.5170,-75.5760 4.5170))
+start_date: 2018-06-01T00:00:00Z
+end_date: 2019-05-01T00:00:00Z
+ cloud_cover: 20 
+2019-05-16 10:03:35,831: INFO: Search returned 4 images
+2019-05-16 10:04:17,847: INFO: Querying for imagery between 20180601 and 20190501 for aoi src/AOI.json
+2019-05-16 10:04:17,858: INFO: Sending query:
+footprint: POLYGON((-75.5760 4.5170,-75.5760 4.4120,-75.4370 4.4120,-75.4370 4.5170,-75.5760 4.5170))
+start_date: 2018-06-01T00:00:00Z
+end_date: 2019-05-01T00:00:00Z
+ cloud_cover: 20 
+2019-05-16 10:04:19,590: INFO: Search returned 4 images
+2019-05-16 11:05:53,897: INFO: Querying for imagery between 20180601 and 20190501 for aoi src/AOI.json
+2019-05-16 11:05:53,913: INFO: Sending query:
+footprint: POLYGON((-75.5760 4.5170,-75.5760 4.4120,-75.4370 4.4120,-75.4370 4.5170,-75.5760 4.5170))
+start_date: 2018-06-01T00:00:00Z
+end_date: 2019-05-01T00:00:00Z
+ cloud_cover: 10 
+2019-05-16 11:05:55,992: INFO: Search returned 0 images
+2019-05-16 11:06:00,203: INFO: Querying for imagery between 20180601 and 20190501 for aoi src/AOI.json
+2019-05-16 11:06:00,214: INFO: Sending query:
+footprint: POLYGON((-75.5760 4.5170,-75.5760 4.4120,-75.4370 4.4120,-75.4370 4.5170,-75.5760 4.5170))
+start_date: 2018-06-01T00:00:00Z
+end_date: 2019-05-01T00:00:00Z
+ cloud_cover: 15 
+2019-05-16 11:06:01,536: INFO: Search returned 1 images
+2019-05-16 11:06:10,962: INFO: Querying for imagery between 20180601 and 20190501 for aoi src/AOI.json
+2019-05-16 11:06:10,968: INFO: Sending query:
+footprint: POLYGON((-75.5760 4.5170,-75.5760 4.4120,-75.4370 4.4120,-75.4370 4.5170,-75.5760 4.5170))
+start_date: 2018-06-01T00:00:00Z
+end_date: 2019-05-01T00:00:00Z
+ cloud_cover: 15 
+2019-05-16 11:06:12,758: INFO: Search returned 1 images
+2019-05-16 11:07:45,993: INFO: {} is not a valid L1 file
+2019-05-16 11:07:46,004: INFO: Downloading S2A_MSIL1C_20190213T152641_N0207_R025_T18NVK_20190213T201450 from scihub
+2019-05-16 11:07:46,010: INFO: Downloading 48194f04-dec1-44db-bee7-05d1a2ad09d9 from scihub
+2019-05-16 11:12:46,909: INFO: {} is not a valid L1 file
+2019-05-16 11:12:46,932: INFO: Downloading S2A_MSIL1C_20190213T152641_N0207_R025_T18NVK_20190213T201450 from aws
+2019-05-16 11:13:49,338: INFO: {} is not a valid L1 file
+2019-05-16 11:13:49,346: INFO: Downloading S2A_MSIL1C_20190213T152641_N0207_R025_T18NVK_20190213T201450 from scihub
+2019-05-16 11:13:49,351: INFO: Downloading 48194f04-dec1-44db-bee7-05d1a2ad09d9 from scihub
+2019-05-16 11:52:27,850: INFO: Unzipping images/S2A_MSIL1C_20190213T152641_N0207_R025_T18NVK_20190213T201450.zip to images
+2019-05-16 11:53:10,938: INFO: Removing images/S2A_MSIL1C_20190213T152641_N0207_R025_T18NVK_20190213T201450.zip
