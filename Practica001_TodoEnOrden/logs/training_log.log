@@ -82,3 +82,239 @@ end_date: 2019-05-01T00:00:00Z
 2019-05-16 11:13:49,351: INFO: Downloading 48194f04-dec1-44db-bee7-05d1a2ad09d9 from scihub
 2019-05-16 11:52:27,850: INFO: Unzipping images/S2A_MSIL1C_20190213T152641_N0207_R025_T18NVK_20190213T201450.zip to images
 2019-05-16 11:53:10,938: INFO: Removing images/S2A_MSIL1C_20190213T152641_N0207_R025_T18NVK_20190213T201450.zip
+2019-05-16 15:45:08,021: INFO: {} is not a valid L1 file
+2019-05-16 15:45:08,032: INFO: Downloading S2A_MSIL1C_20190213T152641_N0207_R025_T18NVK_20190213T201450 from scihub
+2019-05-16 15:45:08,040: INFO: Downloading 48194f04-dec1-44db-bee7-05d1a2ad09d9 from scihub
+2019-05-16 17:09:11,126: INFO: Unzipping images/S2A_MSIL1C_20190213T152641_N0207_R025_T18NVK_20190213T201450.zip to images
+2019-05-16 17:10:03,486: INFO: Removing images/S2A_MSIL1C_20190213T152641_N0207_R025_T18NVK_20190213T201450.zip
+2019-05-16 17:57:34,996: INFO: calling subprocess: ['/home/davo/Documentos/Sen2Cor-02.08.00-Linux64/bin/L2A_Process', 'T18NVK_20190213T152641_B01.jp2']
+2019-05-16 17:57:42,812: INFO: Input user product does not exist.
+
+2019-05-16 17:57:43,050: INFO: sen2cor processing finished for T18NVK_20190213T152641_B01.jp2
+2019-05-16 17:57:43,059: INFO: Validating:
+2019-05-16 17:57:43,074: INFO: {} is not a valid L2 file
+2019-05-16 18:00:42,423: INFO: calling subprocess: ['/home/davo/Documentos/Sen2Cor-02.08.00-Linux64/bin/L2A_Process', 'images/T18NVK_20190213T152641_B01.jp2']
+2019-05-16 18:00:44,315: INFO: Input user product does not exist.
+
+2019-05-16 18:00:44,447: INFO: sen2cor processing finished for images/T18NVK_20190213T152641_B01.jp2
+2019-05-16 18:00:44,455: INFO: Validating:
+2019-05-16 18:00:44,457: INFO: {} is not a valid L2 file
+2019-05-16 18:00:44,462: INFO: calling subprocess: ['/home/davo/Documentos/Sen2Cor-02.08.00-Linux64/bin/L2A_Process', 'images/T18NVK_20190213T152641_B04.jp2']
+2019-05-16 18:00:46,368: INFO: Input user product does not exist.
+
+2019-05-16 18:00:46,514: INFO: sen2cor processing finished for images/T18NVK_20190213T152641_B04.jp2
+2019-05-16 18:00:46,516: INFO: Validating:
+2019-05-16 18:00:46,516: INFO: {} is not a valid L2 file
+2019-05-16 18:00:46,517: INFO: calling subprocess: ['/home/davo/Documentos/Sen2Cor-02.08.00-Linux64/bin/L2A_Process', 'images/T18NVK_20190213T152641_TCI.jp2']
+2019-05-16 18:00:48,900: INFO: Input user product does not exist.
+
+2019-05-16 18:00:49,031: INFO: sen2cor processing finished for images/T18NVK_20190213T152641_TCI.jp2
+2019-05-16 18:00:49,039: INFO: Validating:
+2019-05-16 18:00:49,041: INFO: {} is not a valid L2 file
+2019-05-16 18:00:49,043: INFO: calling subprocess: ['/home/davo/Documentos/Sen2Cor-02.08.00-Linux64/bin/L2A_Process', 'images/T18NVK_20190213T152641_B03.jp2']
+2019-05-16 18:00:51,410: INFO: Input user product does not exist.
+
+2019-05-16 18:00:51,553: INFO: sen2cor processing finished for images/T18NVK_20190213T152641_B03.jp2
+2019-05-16 18:00:51,560: INFO: Validating:
+2019-05-16 18:00:51,562: INFO: {} is not a valid L2 file
+2019-05-16 18:00:51,566: INFO: calling subprocess: ['/home/davo/Documentos/Sen2Cor-02.08.00-Linux64/bin/L2A_Process', 'images/T18NVK_20190213T152641_B06.jp2']
+2019-05-16 18:00:53,923: INFO: Input user product does not exist.
+
+2019-05-16 18:00:54,065: INFO: sen2cor processing finished for images/T18NVK_20190213T152641_B06.jp2
+2019-05-16 18:00:54,075: INFO: Validating:
+2019-05-16 18:00:54,077: INFO: {} is not a valid L2 file
+2019-05-16 18:00:54,079: INFO: calling subprocess: ['/home/davo/Documentos/Sen2Cor-02.08.00-Linux64/bin/L2A_Process', 'images/T18NVK_20190213T152641_B11.jp2']
+2019-05-16 18:00:56,008: INFO: Input user product does not exist.
+
+2019-05-16 18:00:56,132: INFO: sen2cor processing finished for images/T18NVK_20190213T152641_B11.jp2
+2019-05-16 18:00:56,140: INFO: Validating:
+2019-05-16 18:00:56,146: INFO: {} is not a valid L2 file
+2019-05-16 18:00:56,148: INFO: calling subprocess: ['/home/davo/Documentos/Sen2Cor-02.08.00-Linux64/bin/L2A_Process', 'images/T18NVK_20190213T152641_B05.jp2']
+2019-05-16 18:00:58,094: INFO: Input user product does not exist.
+
+2019-05-16 18:00:58,226: INFO: sen2cor processing finished for images/T18NVK_20190213T152641_B05.jp2
+2019-05-16 18:00:58,235: INFO: Validating:
+2019-05-16 18:00:58,238: INFO: {} is not a valid L2 file
+2019-05-16 18:00:58,245: INFO: calling subprocess: ['/home/davo/Documentos/Sen2Cor-02.08.00-Linux64/bin/L2A_Process', 'images/T18NVK_20190213T152641_B07.jp2']
+2019-05-16 18:01:00,239: INFO: Input user product does not exist.
+
+2019-05-16 18:01:00,366: INFO: sen2cor processing finished for images/T18NVK_20190213T152641_B07.jp2
+2019-05-16 18:01:00,375: INFO: Validating:
+2019-05-16 18:01:00,377: INFO: {} is not a valid L2 file
+2019-05-16 18:01:00,379: INFO: calling subprocess: ['/home/davo/Documentos/Sen2Cor-02.08.00-Linux64/bin/L2A_Process', 'images/T18NVK_20190213T152641_B09.jp2']
+2019-05-16 18:01:02,309: INFO: Input user product does not exist.
+
+2019-05-16 18:01:02,459: INFO: sen2cor processing finished for images/T18NVK_20190213T152641_B09.jp2
+2019-05-16 18:01:02,467: INFO: Validating:
+2019-05-16 18:01:02,469: INFO: {} is not a valid L2 file
+2019-05-16 18:01:02,471: INFO: calling subprocess: ['/home/davo/Documentos/Sen2Cor-02.08.00-Linux64/bin/L2A_Process', 'images/T18NVK_20190213T152641_B10.jp2']
+2019-05-16 18:01:04,442: INFO: Input user product does not exist.
+
+2019-05-16 18:01:04,579: INFO: sen2cor processing finished for images/T18NVK_20190213T152641_B10.jp2
+2019-05-16 18:01:04,587: INFO: Validating:
+2019-05-16 18:01:04,589: INFO: {} is not a valid L2 file
+2019-05-16 18:01:04,594: INFO: calling subprocess: ['/home/davo/Documentos/Sen2Cor-02.08.00-Linux64/bin/L2A_Process', 'images/T18NVK_20190213T152641_B8A.jp2']
+2019-05-16 18:01:06,638: INFO: Input user product does not exist.
+
+2019-05-16 18:01:06,787: INFO: sen2cor processing finished for images/T18NVK_20190213T152641_B8A.jp2
+2019-05-16 18:01:06,795: INFO: Validating:
+2019-05-16 18:01:06,797: INFO: {} is not a valid L2 file
+2019-05-16 18:01:06,800: INFO: calling subprocess: ['/home/davo/Documentos/Sen2Cor-02.08.00-Linux64/bin/L2A_Process', 'images/T18NVK_20190213T152641_B08.jp2']
+2019-05-16 18:01:09,083: INFO: Input user product does not exist.
+
+2019-05-16 18:01:09,209: INFO: sen2cor processing finished for images/T18NVK_20190213T152641_B08.jp2
+2019-05-16 18:01:09,218: INFO: Validating:
+2019-05-16 18:01:09,220: INFO: {} is not a valid L2 file
+2019-05-16 18:01:09,221: INFO: calling subprocess: ['/home/davo/Documentos/Sen2Cor-02.08.00-Linux64/bin/L2A_Process', 'images/T18NVK_20190213T152641_B02.jp2']
+2019-05-16 18:01:11,213: INFO: Input user product does not exist.
+
+2019-05-16 18:01:11,359: INFO: sen2cor processing finished for images/T18NVK_20190213T152641_B02.jp2
+2019-05-16 18:01:11,367: INFO: Validating:
+2019-05-16 18:01:11,369: INFO: {} is not a valid L2 file
+2019-05-16 18:01:11,371: INFO: calling subprocess: ['/home/davo/Documentos/Sen2Cor-02.08.00-Linux64/bin/L2A_Process', 'images/T18NVK_20190213T152641_B12.jp2']
+2019-05-16 18:01:13,438: INFO: Input user product does not exist.
+
+2019-05-16 18:01:13,599: INFO: sen2cor processing finished for images/T18NVK_20190213T152641_B12.jp2
+2019-05-16 18:01:13,607: INFO: Validating:
+2019-05-16 18:01:13,609: INFO: {} is not a valid L2 file
+2019-05-16 18:07:46,496: INFO: calling subprocess: ['/home/davo/Documentos/Sen2Cor-02.08.00-Linux64/bin/L2A_Process', 'images/S2A_MSIL1C_20190213T152641_N0207_R025_T18NVK_20190213T201450.SAFE']
+2019-05-16 18:07:52,308: INFO: Sentinel-2 Level 2A Processor (Sen2Cor). Version: 2.8.0, created: 2019.02.20, supporting Level-1C product version 14.2 - 14.5 started ...
+
+2019-05-16 18:07:52,315: INFO: Product version: 14.5
+
+2019-05-16 18:07:52,318: INFO: Operation mode: TOOLBOX
+
+2019-05-16 18:07:52,326: INFO: Processing baseline: 99.99
+
+2019-05-16 18:07:52,330: INFO: Progress[%]:  0.00 : Generating datastrip metadata
+
+2019-05-16 18:07:59,666: INFO: L1C datastrip found, L2A datastrip successfully generated
+
+2019-05-16 18:08:00,325: INFO: No resolution specified, will process 20 and 10 m resolution
+
+2019-05-16 18:08:00,331: INFO: 20 m resolution will be downsampled to 60 m
+
+2019-05-16 18:08:03,498: INFO: Progress[%]: 0.12 : PID-30010, L2A_ProcessTile: processing with resolution 20 m, elapsed time[s]: 3.173, total: 0:00:14.905797
+
+2019-05-16 18:08:03,507: INFO: Progress[%]: 0.12 : PID-30010, L2A_ProcessTile: start of pre processing, elapsed time[s]: 0.010, total: 0:00:14.915487
+
+2019-05-16 18:08:03,826: INFO: Progress[%]: 0.14 : PID-30010, L2A_Tables: start import, elapsed time[s]: 0.319, total: 0:00:15.234474
+
+2019-05-16 18:08:08,557: INFO: Progress[%]: 0.32 : PID-30010, L2A_Tables: band B01 imported, elapsed time[s]: 4.731, total: 0:00:19.965362
+
+2019-05-16 18:10:18,831: INFO: Progress[%]: 5.43 : PID-30010, L2A_Tables: band B02 imported, elapsed time[s]: 130.127, total: 0:02:30.092239
+
+2019-05-16 18:11:32,414: INFO: Progress[%]: 8.24 : PID-30010, L2A_Tables: band B03 imported, elapsed time[s]: 71.666, total: 0:03:41.758559
+
+2019-05-16 18:12:37,659: INFO: Progress[%]: 10.87 : PID-30010, L2A_Tables: band B04 imported, elapsed time[s]: 67.145, total: 0:04:48.903743
+
+2019-05-16 18:13:05,993: INFO: Progress[%]: 11.99 : PID-30010, L2A_Tables: band B05 imported, elapsed time[s]: 28.498, total: 0:05:17.401674
+
+2019-05-16 18:13:29,842: INFO: Progress[%]: 12.92 : PID-30010, L2A_Tables: band B06 imported, elapsed time[s]: 23.848, total: 0:05:41.249911
+
+2019-05-16 18:13:52,974: INFO: Progress[%]: 13.83 : PID-30010, L2A_Tables: band B07 imported, elapsed time[s]: 23.132, total: 0:06:04.382183
+
+2019-05-16 18:14:17,158: INFO: Progress[%]: 14.78 : PID-30010, L2A_Tables: band B8A imported, elapsed time[s]: 24.184, total: 0:06:28.566051
+
+2019-05-16 18:14:23,102: INFO: Progress[%]: 15.01 : PID-30010, L2A_Tables: band B09 imported, elapsed time[s]: 5.944, total: 0:06:34.510527
+
+2019-05-16 18:14:26,622: INFO: Progress[%]: 15.15 : PID-30010, L2A_Tables: band B10 imported, elapsed time[s]: 3.520, total: 0:06:38.030065
+
+2019-05-16 18:14:48,651: INFO: Progress[%]: 16.01 : PID-30010, L2A_Tables: band B11 imported, elapsed time[s]: 22.029, total: 0:07:00.059164
+
+2019-05-16 18:15:11,544: INFO: Progress[%]: 16.91 : PID-30010, L2A_Tables: band B12 imported, elapsed time[s]: 22.893, total: 0:07:22.952204
+
+2019-05-16 18:15:11,608: INFO: Progress[%]: 16.91 : PID-30010, L2A_ProcessTile: start of Scene Classification, elapsed time[s]: 0.064, total: 0:07:23.016622
+
+2019-05-16 18:15:15,112: INFO: Progress[%]: 17.05 : PID-30010, L2A_Tables: band B02 must be resampled, elapsed time[s]: 3.503, total: 0:07:26.520031
+
+2019-05-16 18:15:54,697: INFO: Progress[%]: 18.60 : PID-30010, Pre process   , elapsed time[s]: 39.556, total: 0:08:06.075559
+
+2019-05-16 18:15:55,168: INFO: Progress[%]: 18.62 : PID-30010, L2A_Tables: band B01 must be resampled, elapsed time[s]: 0.501, total: 0:08:06.576289
+
+2019-05-16 18:16:13,814: INFO: Progress[%]: 19.35 : PID-30010, L2A_Tables: band B03 must be resampled, elapsed time[s]: 18.642, total: 0:08:25.218676
+
+2019-05-16 18:16:33,763: INFO: Progress[%]: 20.13 : PID-30010, L2A_Tables: band B04 must be resampled, elapsed time[s]: 19.898, total: 0:08:45.116276
+
+2019-05-16 18:16:48,797: INFO: Progress[%]: 20.72 : PID-30010, L2A_Tables: band B09 must be resampled, elapsed time[s]: 15.089, total: 0:09:00.205269
+
+2019-05-16 18:16:57,421: INFO: Progress[%]: 21.06 : PID-30010, L2A_Tables: band B10 must be resampled, elapsed time[s]: 8.625, total: 0:09:08.829776
+
+2019-05-16 18:17:07,466: INFO: Progress[%]: 21.46 : PID-30010, L2A_SC init   , elapsed time[s]: 10.044, total: 0:09:18.873818
+
+2019-05-16 18:17:12,231: INFO: Progress[%]: 21.64 : PID-30010, L2A_CSND_1_1  , elapsed time[s]: 4.765, total: 0:09:23.638780
+
+2019-05-16 18:17:18,129: INFO: Progress[%]: 21.87 : PID-30010, L2A_Tables: band B03 must be resampled, elapsed time[s]: 5.898, total: 0:09:29.537120
+
+2019-05-16 18:17:33,130: INFO: Progress[%]: 22.45 : PID-30010, L2A_CSND_1_2  , elapsed time[s]: 14.720, total: 0:09:44.256947
+
+2019-05-16 18:17:35,156: INFO: Progress[%]: 22.54 : PID-30010, L2A_CSND_2_0  , elapsed time[s]: 2.307, total: 0:09:46.564190
+
+2019-05-16 18:17:39,369: INFO: Progress[%]: 22.71 : PID-30010, L2A_CSND_2_1  , elapsed time[s]: 4.213, total: 0:09:50.776825
+
+2019-05-16 18:17:42,647: INFO: Progress[%]: 22.84 : PID-30010, L2A_CSND_2_1_2, elapsed time[s]: 3.279, total: 0:09:54.055358
+
+2019-05-16 18:17:43,825: INFO: Progress[%]: 22.88 : PID-30010, L2A_CSND_2_2  , elapsed time[s]: 1.177, total: 0:09:55.232830
+
+2019-05-16 18:17:48,230: INFO: Progress[%]: 23.06 : PID-30010, L2A_CSND_2_3  , elapsed time[s]: 4.405, total: 0:09:59.637798
+
+2019-05-16 18:17:55,639: INFO: Progress[%]: 23.34 : PID-30010, L2A_CSND_2_4  , elapsed time[s]: 7.364, total: 0:10:07.002265
+
+2019-05-16 18:18:08,266: INFO: Progress[%]: 23.84 : PID-30010, L2A_CSND_2_5  , elapsed time[s]: 12.671, total: 0:10:19.673455
+
+2019-05-16 18:18:08,270: INFO: Progress[%]: 23.84 : PID-30010, L2A_SnowPostProcessingCCI  , elapsed time[s]: 0.005, total: 0:10:19.678631
+
+2019-05-16 18:18:16,478: INFO: Progress[%]: 24.16 : PID-30010, L2A_CSND_3    , elapsed time[s]: 8.192, total: 0:10:27.870633
+
+2019-05-16 18:18:23,833: INFO: Progress[%]: 24.45 : PID-30010, L2A_CSND_5_1  , elapsed time[s]: 7.307, total: 0:10:35.177897
+
+2019-05-16 18:18:43,273: INFO: Progress[%]: 25.21 : PID-30010, L2A_CSND_5_2  , elapsed time[s]: 19.475, total: 0:10:54.652645
+
+2019-05-16 18:18:51,885: INFO: Progress[%]: 25.55 : PID-30010, L2A_CSND_6    , elapsed time[s]: 8.640, total: 0:11:03.292775
+
+2019-05-16 18:18:56,972: INFO: Progress[%]: 25.75 : PID-30010, L2A_CSND_6_2  , elapsed time[s]: 5.061, total: 0:11:08.354040
+
+2019-05-16 18:19:02,505: INFO: Progress[%]: 25.97 : PID-30010, L2A_CSND_7    , elapsed time[s]: 5.559, total: 0:11:13.913291
+
+2019-05-16 18:19:17,186: INFO: 
+
+2019-05-16 18:19:17,332: INFO: Traceback (most recent call last):
+
+2019-05-16 18:19:17,513: INFO:   File "/home/davo/Documentos/Sen2Cor-02.08.00-Linux64/lib/python2.7/site-packages/sen2cor/L2A_Process.py", line 495, in main
+
+2019-05-16 18:19:18,002: INFO:     if tile.process() == True:
+
+2019-05-16 18:19:18,016: INFO:   File "/home/davo/Documentos/Sen2Cor-02.08.00-Linux64/lib/python2.7/site-packages/sen2cor/L2A_ProcessTileToolbox.py", line 118, in process
+
+2019-05-16 18:19:18,168: INFO:     if not self.process_resolution(20):
+
+2019-05-16 18:19:18,196: INFO:   File "/home/davo/Documentos/Sen2Cor-02.08.00-Linux64/lib/python2.7/site-packages/sen2cor/L2A_ProcessTileToolbox.py", line 148, in process_resolution
+
+2019-05-16 18:19:18,331: INFO:     return self._process()
+
+2019-05-16 18:19:18,336: INFO:   File "/home/davo/Documentos/Sen2Cor-02.08.00-Linux64/lib/python2.7/site-packages/sen2cor/L2A_ProcessTileToolbox.py", line 170, in _process
+
+2019-05-16 18:19:18,336: INFO:     if sc.process() == False:
+
+2019-05-16 18:19:18,350: INFO:   File "/home/davo/Documentos/Sen2Cor-02.08.00-Linux64/lib/python2.7/site-packages/sen2cor/L2A_SceneClass.py", line 1197, in process
+
+2019-05-16 18:19:18,359: INFO:     self.L2A_SHD()
+
+2019-05-16 18:19:18,412: INFO:   File "/home/davo/Documentos/Sen2Cor-02.08.00-Linux64/lib/python2.7/site-packages/sen2cor/L2A_SceneClass.py", line 553, in L2A_SHD
+
+2019-05-16 18:19:18,413: INFO:     csd1 = self.L2A_CSHD_1()
+
+2019-05-16 18:19:18,419: INFO:   File "/home/davo/Documentos/Sen2Cor-02.08.00-Linux64/lib/python2.7/site-packages/sen2cor/L2A_SceneClass.py", line 581, in L2A_CSHD_1
+
+2019-05-16 18:19:18,438: INFO:     distance = zeros((6, x, y), float32)
+
+2019-05-16 18:19:18,440: INFO: MemoryError
+
+2019-05-16 18:19:18,442: INFO: Progress[%]: 100.00 : Application terminated with at least one error.
+
+2019-05-16 18:19:18,443: INFO: 
+
+2019-05-16 18:19:23,005: INFO: sen2cor processing finished for images/S2A_MSIL1C_20190213T152641_N0207_R025_T18NVK_20190213T201450.SAFE
+2019-05-16 18:19:23,083: INFO: Validating:
+2019-05-16 18:19:23,085: INFO: Checking images/S2A_MSIL2A_20190213T152641_N0207_R025_T18NVK_20190213T201450.SAFE for incomplete 10m imagery
+2019-05-16 18:19:23,254: ERROR: 10m imagery not present in images/S2A_MSIL2A_20190213T152641_N0207_R025_T18NVK_20190213T201450.SAFE
